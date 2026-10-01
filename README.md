@@ -1,4 +1,4 @@
-# jufty-bot 🦞
+# jufty-bot <a href="https://github.com/jufty-bot"><img src="https://raw.githubusercontent.com/jufty-bot/jufty-bot/main/static/jufty-bot.png" width="35"></a>
 
 jufty-bot is [@juftin](https://github.com/juftin)'s lobster <a href="https://github.com/juftin"><img src="https://raw.githubusercontent.com/juftin/juftin/main/static/juftin.png" width="30"></a>
 
